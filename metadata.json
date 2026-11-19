@@ -1,0 +1,6 @@
+{
+  "name": "EasyApp Processing",
+  "description": "Illinois Concealed Carry License (CCL) and FOID card application preparation and submission service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
